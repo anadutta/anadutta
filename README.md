@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anadutta
-- 👀 I’m interested in Artificial Intelligence and it's applications.
-- 🌱 I’m currently in my final year of M.Sc. in Statistics.
+
+- Hi, I’m @anadutta
+- Data analyst with a track record of achieving results through effective business problem solving and collaboration with key stakeholders. Proficient in coordinating and analyzing data to derive valuable insights that drive actionable recommendations. Possesses analytical skills, including experience in database management and proficiency in tools such as Excel and Python. Demonstrates self-motivation and a commitment to continuous learning. 
 - 📫 You can reach me out on anaddutta@gmail.com or https://www.linkedin.com/in/anadutta/
 
 <!---
